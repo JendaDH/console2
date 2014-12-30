@@ -51,10 +51,10 @@ LPCWSTR W64Reg = L"SOFTWARE\\Wow6432Node\\Microsoft\\Windows\\CurrentVersion\\Un
 
 /****************************************************************************/
 /*                                                                          */
-/*    Name:         : ws2s()												*/
+/*    Name:         : ws2s()                                                */
 /*                                                                          */
 /*    Return:       : sdt::string                                           */
-/*							                                                */
+/*                                                                          */
 /*                                                                          */
 /*    Description   : Converts std::wstring to std::string.                 */
 /*                                                                          */
